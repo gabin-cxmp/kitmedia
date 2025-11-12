@@ -3,6 +3,14 @@
   src: url(../shared-assets/fonts/NeueHaasDisplayMedium.ttf);
 }
 
+@font-face {
+  font-family: "Acumin Condensed Bold";
+  src: url("../shared-assets/fonts/AcuminVariableConcept.otf") format("opentype-variations");
+  font-weight: 700;         /* Bold */
+  font-stretch: 80%;        /* Condensed — ajuste selon ton besoin */
+  font-style: normal;
+}
+
 html{
   overflow-x: hidden;
 }
