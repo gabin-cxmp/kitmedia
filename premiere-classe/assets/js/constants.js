@@ -33,7 +33,7 @@ export const SOCIALS = [
   { 
     nameEN: 'Square format',
     nameFR:'Format carré', 
-    dataId:'customized-square-format-premiere-classe',
+    dataId:'PC-MAR-26_custom-square',
     templateEN: 'assets/templates/1080x1080.png', 
     templateFR: 'assets/templates/1080x1080.png', 
     description: '(1080x1080)', 
@@ -48,7 +48,7 @@ export const SOCIALS = [
   { 
     nameEN: 'Story format', 
     nameFR: 'Format story', 
-    dataId:'customized-story-format-premiere-classe',
+    dataId:'PC-MAR-26_custom-story',
     templateEN: 'assets/templates/1080x1920.png', 
     templateFR: 'assets/templates/1080x1920.png', 
     description: '(1080x1920)', 
@@ -63,7 +63,7 @@ export const SOCIALS = [
   { 
     nameEN: 'Portrait format', 
     nameFR: 'Format portrait', 
-    dataId:'customized-portrait-format-premiere-classe',
+    dataId:'PC-MAR-26_custom-portrait',
     templateEN: 'assets/templates/1080x1350.png', 
     templateFR: 'assets/templates/1080x1350.png', 
     description: '(1080x1350)', 
@@ -78,7 +78,7 @@ export const SOCIALS = [
   { 
     nameEN: 'LinkedIn Banner', 
     nameFR: 'Bannière Linkedin',
-    dataId:'customized-linkedin-banner-premiere-classe', 
+    dataId:'PC-MAR-26_custom-linkedin', 
     templateEN: 'assets/templates/1584x396.png', 
     templateFR: 'assets/templates/1584x396.png', 
     description: '(1584x396)', 
@@ -93,7 +93,7 @@ export const SOCIALS = [
    { 
     nameEN: 'Landscape format', 
     nameFR: 'Format paysage', 
-    dataId:'customized-landscape-format-premiere-classe',
+    dataId:'PC-MAR-26_custom-landscape',
     templateEN: 'assets/templates/1200x628.png', 
     templateFR: 'assets/templates/1200x628.png', 
     description: '(1200x628)', 
@@ -108,7 +108,7 @@ export const SOCIALS = [
    { 
     nameEN: 'Email signature', 
     nameFR: 'Signature Email', 
-    dataId:'customized-email-signature-premiere-classe',
+    dataId:'PC-MAR-26_custom-signature',
     templateEN: 'assets/templates/600x140.png', 
     templateFR: 'assets/templates/600x140.png', 
     description: '(600x140)', 
@@ -123,7 +123,7 @@ export const SOCIALS = [
    { 
     nameEN: 'Small banner', 
     nameFR: 'Petite bannière',
-    dataId:'customized-small-banner-premiere-classe', 
+    dataId:'PC-MAR-26_custom-banner', 
     templateEN: 'assets/templates/300x250.png', 
     templateFR: 'assets/templates/300x250.png', 
     description: '(300x250)', 
