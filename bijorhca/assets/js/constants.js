@@ -15,7 +15,7 @@ export const dom = {
 
 export const infoEvent = {
   name: "BIJORHCA JAN 26",
-  abreviation: 'BIJORHCA-JANV-26'
+  abreviation: 'BIJORHCA-JAN-26'
 }
 
   
@@ -131,3 +131,4 @@ export const LOGOS = [
     src: '../bijorhca/assets/logos/logo-bijorhca.svg'
   }
 ]
+
