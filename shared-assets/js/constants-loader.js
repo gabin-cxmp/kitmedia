@@ -2,7 +2,7 @@
 let constants;
 if (window.location.href.toLowerCase().includes('bijorhca')) {
     constants = await import('../../bijorhca/assets/js/constants.js');
-} else if (window.location.href.toLowerCase().includes('wsn')) {
+} else if (window.location.href.toLowerCase().includes('wsn-events.com/wsn')) {
     constants = await import('../../wsn/assets/js/constants.js');
 } else if (window.location.href.toLowerCase().includes('interfiliere')) {
     constants = await import('../../interfiliere/assets/js/constants.js');
