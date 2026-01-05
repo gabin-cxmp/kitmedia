@@ -33,7 +33,7 @@ export const SOCIALS = [
     { 
       nameEN: 'Square format',
       nameFR:'Format carré', 
-      dataId:'customized-square-format-whos-next',
+      dataId:'WSN-JANV-26_custom-square',
       templateEN: 'assets/templates/1080x1080.png', 
       templateFR: 'assets/templates/1080x1080.png', 
       description: '(1080x1080)', 
@@ -239,3 +239,4 @@ export const LOGOS = [
     src: '../wsn/assets/logos/logo-whosnext.svg'
   }
 ]
+
