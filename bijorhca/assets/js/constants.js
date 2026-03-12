@@ -116,7 +116,7 @@ export const infoEvent = {
     logoCenter: [150, 237], 
     standLetterPosition: [300-8, 240], 
     maxLogoSize: [34, 16], 
-    font: '12px NueueHaasDisplayMedium'
+    font: '10px NueueHaasDisplayMedium'
    }
   ];
   
@@ -131,4 +131,5 @@ export const LOGOS = [
     src: '../bijorhca/assets/logos/logo-bijorhca.svg'
   }
 ]
+
 
