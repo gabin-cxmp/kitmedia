@@ -14,8 +14,8 @@ export const dom = {
   };
 
 export const infoEvent = {
-  name: "BIJORHCA JAN 26",
-  abreviation: 'BIJORHCA-JAN-26'
+  name: "BIJORHCA",
+  abreviation: 'BIJORHCA'
 }
 
   
@@ -23,7 +23,7 @@ export const infoEvent = {
   { 
     nameEN: 'Square format',
     nameFR:'Format carré', 
-    dataId:'BIJORHCA-JAN-26_custom-square',
+    dataId:'BIJORHCA_custom-square',
     templateEN: 'assets/templates/1080x1080.png', 
     templateFR: 'assets/templates/1080x1080.png', 
     description: '(1080x1080)', 
@@ -32,12 +32,12 @@ export const infoEvent = {
     logoCenter: [540, 1033], 
     standLetterPosition: [1080-28, 1044], 
     maxLogoSize: [200, 64], 
-    font: '32px Acumin Condensed Bold' 
+    font: '32px NueueHaasDisplayMedium' 
   },
   { 
     nameEN: 'Story format', 
     nameFR: 'Format story', 
-    dataId:'BIJORHCA-JAN-26_custom-story',
+    dataId:'BIJORHCA_custom-story',
     templateEN: 'assets/templates/1080x1920.png', 
     templateFR: 'assets/templates/1080x1920.png', 
     description: '(1080x1920)', 
@@ -46,12 +46,12 @@ export const infoEvent = {
     logoCenter: [540, 1873], 
     standLetterPosition: [1080-28, 1883], 
     maxLogoSize: [200, 64], 
-    font: '32px Acumin Condensed Bold' 
+    font: '32px NueueHaasDisplayMedium' 
   },
   { 
     nameEN: 'Portrait format', 
     nameFR: 'Format portrait', 
-    dataId:'BIJORHCA-JAN-26_custom-portrait',
+    dataId:'BIJORHCA_custom-portrait',
     templateEN: 'assets/templates/1080x1350.png', 
     templateFR: 'assets/templates/1080x1350.png', 
     description: '(1080x1350)', 
@@ -60,12 +60,12 @@ export const infoEvent = {
     logoCenter: [540, 1303], 
     standLetterPosition: [1080-28, 1314], 
     maxLogoSize: [200, 64], 
-    font: '32px Acumin Condensed Bold' 
+    font: '32px NueueHaasDisplayMedium' 
   },
   { 
     nameEN: 'LinkedIn Banner', 
     nameFR: 'Bannière Linkedin',
-    dataId:'BIJORHCA-JAN-26_custom-linkedin', 
+    dataId:'BIJORHCA_custom-linkedin', 
     templateEN: 'assets/templates/1584x396.png', 
     templateFR: 'assets/templates/1584x396.png', 
     description: '(1584x396)', 
@@ -74,12 +74,12 @@ export const infoEvent = {
     logoCenter: [792, 361], 
     standLetterPosition: [1584-27, 371], 
     maxLogoSize: [200, 52], 
-    font: '32px Acumin Condensed Bold'
+    font: '32px NueueHaasDisplayMedium'
    },
    { 
     nameEN: 'Landscape format', 
     nameFR: 'Format paysage', 
-    dataId:'BIJORHCA-JAN-26_custom-landscape',
+    dataId:'BIJORHCA_custom-landscape',
     templateEN: 'assets/templates/1200x628.png', 
     templateFR: 'assets/templates/1200x628.png', 
     description: '(1200x628)', 
@@ -88,12 +88,12 @@ export const infoEvent = {
     logoCenter: [600, 593], 
     standLetterPosition: [1200-31, 603], 
     maxLogoSize: [200, 52], 
-    font: '32px Acumin Condensed Bold'
+    font: '32px NueueHaasDisplayMedium'
    },
    { 
     nameEN: 'Email signature', 
     nameFR: 'Signature Email', 
-    dataId:'BIJORHCA-JAN-26_custom-signature',
+    dataId:'BIJORHCA_custom-signature',
     templateEN: 'assets/templates/600x140.png', 
     templateFR: 'assets/templates/600x140.png', 
     description: '(600x140)', 
@@ -102,12 +102,12 @@ export const infoEvent = {
     logoCenter: [300, 128], 
     standLetterPosition: [600-8, 131], 
     maxLogoSize: [70, 16], 
-    font: '12px Acumin Condensed Bold'
+    font: '12px NueueHaasDisplayMedium'
    },
    { 
     nameEN: 'Small banner', 
     nameFR: 'Petite bannière',
-    dataId:'BIJORHCA-JAN-26_custom-banner', 
+    dataId:'BIJORHCA_custom-banner', 
     templateEN: 'assets/templates/300x250.png', 
     templateFR: 'assets/templates/300x250.png', 
     description: '(300x250)', 
@@ -116,18 +116,19 @@ export const infoEvent = {
     logoCenter: [150, 237], 
     standLetterPosition: [300-8, 240], 
     maxLogoSize: [34, 16], 
-    font: '12px Acumin Condensed Bold'
+    font: '12px NueueHaasDisplayMedium'
    }
   ];
   
 
 export const LOGOS = [
   {
-    name: 'Logo-Bijorhca-2025.png',
+    name: 'Logo-Bijorhca.png',
     src: '../bijorhca/assets/logos/logo-bijorhca.png'
   },
   {
-    name: 'Logo-Bijorhca-2025.svg',
+    name: 'Logo-Bijorhca.svg',
     src: '../bijorhca/assets/logos/logo-bijorhca.svg'
   }
 ]
+
