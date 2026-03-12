@@ -30,7 +30,7 @@ export const infoEvent = {
     socials: ['instagram', 'facebook', 'x'], 
     dimensions: [1080, 1080], 
     logoCenter: [540, 1033], 
-    standLetterPosition: [1080-28, 1054], 
+    standLetterPosition: [1080-28, 1064], 
     maxLogoSize: [200, 64], 
     font: '32px NueueHaasDisplayMedium' 
   },
@@ -44,7 +44,7 @@ export const infoEvent = {
     socials: ['instagram', 'facebook', 'tiktok'], 
     dimensions: [1080, 1920], 
     logoCenter: [540, 1873], 
-    standLetterPosition: [1080-28, 1893], 
+    standLetterPosition: [1080-28, 1903], 
     maxLogoSize: [200, 64], 
     font: '32px NueueHaasDisplayMedium' 
   },
@@ -58,7 +58,7 @@ export const infoEvent = {
     socials: ['facebook', 'instagram'], 
     dimensions: [1080, 1350], 
     logoCenter: [540, 1303], 
-    standLetterPosition: [1080-28, 1324], 
+    standLetterPosition: [1080-28, 1334], 
     maxLogoSize: [200, 64], 
     font: '32px NueueHaasDisplayMedium' 
   },
@@ -72,7 +72,7 @@ export const infoEvent = {
     socials: ['linkedin'], 
     dimensions: [1584, 396], 
     logoCenter: [792, 361], 
-    standLetterPosition: [1584-27, 381], 
+    standLetterPosition: [1584-27, 391], 
     maxLogoSize: [200, 52], 
     font: '32px NueueHaasDisplayMedium'
    },
@@ -86,7 +86,7 @@ export const infoEvent = {
     socials: ['facebook', 'instagram', 'x'], 
     dimensions: [1200, 628], 
     logoCenter: [600, 593], 
-    standLetterPosition: [1200-31, 613], 
+    standLetterPosition: [1200-31, 623], 
     maxLogoSize: [200, 52], 
     font: '32px NueueHaasDisplayMedium'
    },
@@ -100,7 +100,7 @@ export const infoEvent = {
     socials: ['mail'], 
     dimensions: [600, 140], 
     logoCenter: [300, 128], 
-    standLetterPosition: [600-8, 141], 
+    standLetterPosition: [600-8, 151], 
     maxLogoSize: [70, 16], 
     font: '12px NueueHaasDisplayMedium'
    },
@@ -114,7 +114,7 @@ export const infoEvent = {
     socials: ['google-ads', 'meta'], 
     dimensions: [300, 250], 
     logoCenter: [150, 237], 
-    standLetterPosition: [300-8, 250], 
+    standLetterPosition: [300-8, 260], 
     maxLogoSize: [34, 16], 
     font: '10px NueueHaasDisplayMedium'
    }
@@ -131,6 +131,7 @@ export const LOGOS = [
     src: '../bijorhca/assets/logos/logo-bijorhca.svg'
   }
 ]
+
 
 
 
