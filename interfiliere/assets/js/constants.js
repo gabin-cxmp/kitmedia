@@ -67,8 +67,8 @@ export const SOCIALS = [
       description: '(1080x1440)', 
       socials: ['facebook', 'instagram'], 
       dimensions: [1080, 1440], 
-      logoCenter: [540, 1303], 
-      standLetterPosition: [1080-28, 1313], 
+      logoCenter: [540, 1393], 
+      standLetterPosition: [1080-28, 1403], 
       maxLogoSize: [200, 64], 
       font: '32px Acumin Condensed Bold' 
     },
