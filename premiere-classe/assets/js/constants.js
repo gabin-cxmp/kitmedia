@@ -59,18 +59,18 @@ export const SOCIALS = [
       font: '32px Acumin Condensed Bold' 
     },
     { 
-      nameEN: 'Portrait format', 
+   nameEN: 'Portrait format', 
       nameFR: 'Format portrait', 
-      dataId:'PC_custom-portrait',
+      dataId:'WSN_custom-portrait',
       templateEN: 'assets/templates/1080x1440.png', 
       templateFR: 'assets/templates/1080x1440.png', 
-      description: '(1080x1350)', 
+      description: '(1080x1440)', 
       socials: ['facebook', 'instagram'], 
-      dimensions: [1080, 1350], 
-      logoCenter: [540, 1303], 
-      standLetterPosition: [1080-28, 1313], 
+      dimensions: [1080, 1440], 
+      logoCenter: [540, 1393], 
+      standLetterPosition: [1080-28, 1403], 
       maxLogoSize: [200, 64], 
-      font: '32px Acumin Condensed Bold' 
+      font: '32px Acumin Condensed Bold'
     },
     { 
       nameEN: 'LinkedIn Banner', 
@@ -114,7 +114,7 @@ export const SOCIALS = [
       maxLogoSize: [70, 16], 
       font: '10px Acumin Condensed Bold'
      },
-     { 
+    /* { 
       nameEN: 'Small banner', 
       nameFR: 'Petite bannière',
       dataId:'PC_custom-banner', 
@@ -127,7 +127,7 @@ export const SOCIALS = [
       standLetterPosition: [300-9, 241], 
       maxLogoSize: [34, 16], 
       font: '10px Acumin Condensed Bold'
-     }
+     }*/
   ];
 
 export const LOGOS = [
