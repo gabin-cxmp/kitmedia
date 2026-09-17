@@ -39,7 +39,7 @@ export const SOCIALS = [
       description: '(1080x1080)', 
       socials: ['instagram', 'facebook', 'x'], 
       dimensions: [1080, 1080], 
-      logoCenter: [540, 1033], 
+      logoCenter: [952, 1033], 
       standLetterPosition: [1080-28, 1043], 
       maxLogoSize: [200, 64], 
       font: '32px Acumin Condensed Bold' 
@@ -53,7 +53,7 @@ export const SOCIALS = [
       description: '(1080x1920)', 
       socials: ['instagram', 'facebook', 'tiktok'], 
       dimensions: [1080, 1920], 
-      logoCenter: [540, 1873], 
+      logoCenter: [952, 1873], 
       standLetterPosition: [1080-28, 1883], 
       maxLogoSize: [200, 64], 
       font: '32px Acumin Condensed Bold' 
@@ -67,7 +67,7 @@ export const SOCIALS = [
       description: '(1080x1440)', 
       socials: ['facebook', 'instagram'], 
       dimensions: [1080, 1440], 
-      logoCenter: [540, 1393], 
+      logoCenter: [952, 1393], 
       standLetterPosition: [1080-28, 1403], 
       maxLogoSize: [200, 64], 
       font: '32px Acumin Condensed Bold'
@@ -81,7 +81,7 @@ export const SOCIALS = [
       description: '(1584x396)', 
       socials: ['linkedin'], 
       dimensions: [1584, 396], 
-      logoCenter: [792, 361], 
+      logoCenter: [1456, 361], 
       standLetterPosition: [1584-28, 371], 
       maxLogoSize: [200, 56], 
       font: '32px Acumin Condensed Bold'
@@ -95,7 +95,7 @@ export const SOCIALS = [
       description: '(1200x628)', 
       socials: ['facebook', 'instagram', 'x'], 
       dimensions: [1200, 628], 
-      logoCenter: [600, 593], 
+      logoCenter: [1042, 593], 
       standLetterPosition: [1200-58, 603], 
       maxLogoSize: [200, 56], 
       font: '32px Acumin Condensed Bold'
@@ -109,7 +109,7 @@ export const SOCIALS = [
       description: '(600x140)', 
       socials: ['mail'], 
       dimensions: [600, 140], 
-      logoCenter: [300, 128], 
+      logoCenter: [557, 128], 
       standLetterPosition: [600-8, 131], 
       maxLogoSize: [70, 16], 
       font: '10px Acumin Condensed Bold'
