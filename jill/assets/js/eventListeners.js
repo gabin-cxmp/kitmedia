@@ -26,6 +26,7 @@ dom.submitButton.addEventListener('click', async () => {
     generatedImagesSection.style.display = 'block';
     const loadingSpinner = createElement('div', { className: 'loading-spinner' });
     generatedImagesSection.appendChild(loadingSpinner);
+    generatedImagesSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
   
     const logoImg = new Image();
     logoImg.src = URL.createObjectURL(logoFile);
@@ -34,7 +35,6 @@ dom.submitButton.addEventListener('click', async () => {
     const imageData = await Promise.all(FORMATS_CUSTOMIZED_BANNERS.map(format => generateImage(format, logoImg, tentSelectInput ? tentSelectInput.value.toUpperCase() : "", standNumber)));
   
     loadingSpinner.remove();
-    generatedImagesSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
   
     dom.downloadAllButton.style.display = 'block';
     dom.downloadAllButton.onclick = () => downloadAllImages(imageData);
