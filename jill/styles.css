@@ -367,14 +367,14 @@ button:hover, .download-button-small:hover, .download-button:hover {
 }
 
 .preview-design{
-  background: center / cover no-repeat url('assets/templates/preview-template.png');
+  background: center / cover no-repeat url('assets/templates/preview-template.jpg');
   width: 400px;
   height: 400px;
   border: 1.5px solid black;
 }
 
 .preview-design-pictures{
-  background: center / cover no-repeat url('assets/banners-with-pictures/picture-portrait_preview.png');
+  background: center / cover no-repeat url('assets/banners-with-pictures/picture-portrait_preview.jpg');
   width: 400px;
   height: 600px;
   border-radius: 16px;
@@ -576,13 +576,13 @@ button:hover, .download-button-small:hover, .download-button:hover {
   }
 
   .preview-design{
-    background: center / cover no-repeat url('assets/templates/preview-template-long.png');
+    background: center / cover no-repeat url('assets/templates/preview-template-long.jpg');
     height: 464px;
     width: 260px;
   }
 
   .preview-design-pictures{
-    background: center / cover no-repeat url('assets/banners-with-pictures/picture-portrait_preview.png');
+    background: center / cover no-repeat url('assets/banners-with-pictures/picture-portrait_preview.jpg');
     height: 400px;
     width: 260px;
   }
