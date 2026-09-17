@@ -543,13 +543,13 @@ button:hover, .download-button-small:hover, .download-button:hover {
   }
 
   .preview-design{
-    background: center / cover no-repeat url('assets/templates/preview-template-long.png');
+    background: center / cover no-repeat url('assets/templates/preview-template-long.jpg');
     height: 464px;
     width: 260px;
   }
 
   .preview-design-pictures{
-    background: center / cover no-repeat url('assets/banners-with-pictures/picture-portrait_preview.png');
+    background: center / cover no-repeat url('assets/banners-with-pictures/picture-portrait_previewjpg');
     height: 400px;
     width: 260px;
   }
