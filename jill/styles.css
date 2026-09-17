@@ -527,7 +527,7 @@ button:hover, .download-button-small:hover, .download-button:hover {
 }
 
 .logo-picture_wrapper > img {
-  width: 300px;
+  width: px;
 }
 
 @keyframes spin {
