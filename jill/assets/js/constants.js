@@ -14,7 +14,7 @@ export const dom = {
   };
 
 export const infoEvent = {
-    name: "WHO'S NEXT",
+    name: "JILL",
     abreviation: 'WSN'
   }
 
