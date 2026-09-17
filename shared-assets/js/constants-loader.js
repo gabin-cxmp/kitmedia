@@ -13,6 +13,9 @@ if (window.location.href.toLowerCase().includes('bijorhca')) {
 } else if (window.location.href.toLowerCase().includes('shoppe-object')) {
     constants = await import('../../shoppe-object/assets/js/constants.js');
 }
+else if (window.location.href.toLowerCase().includes('jill')) {
+    constants = await import('../../jill/assets/js/constants.js');
+}
 
 
 export const { dom, infoEvent, FORMATS_CUSTOMIZED_BANNERS, LOGOS } = constants;
